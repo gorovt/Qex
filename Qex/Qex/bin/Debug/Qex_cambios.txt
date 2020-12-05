@@ -1,0 +1,136 @@
+﻿*******************************************************************************
+*                                                                             *
+*    Copyright (c) 2016-2020 Luciano Gorosito <lucianogorosito@hotmail.com>   *
+*                                                                             *
+*    This file is part of Qex                                                 *
+*                                                                             *
+*    Qex is free software: you can redistribute it and/or modify              *
+*    it under the terms of the GNU General Public License as published by     *
+*    the Free Software Foundation, either version 3 of the License, or        *
+*    (at your option) any later version.                                      *
+*                                                                             *
+*    Qex is distributed in the hope that it will be useful,                   *
+*    but WITHOUT ANY WARRANTY; without even the implied warranty of           *
+*    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the            *
+*    GNU General Public License for more details.                             *
+*                                                                             *
+*    You should have received a copy of the GNU General Public License        *
+*    along with this program.  If not, see <https://www.gnu.org/licenses/>.   *
+*                                                                             *
+*******************************************************************************
+
+***************************************************************************
+Qex Quantificaciones Express - Log de cambios
+***************************************************************************
+	En este documento se detallan los cambios realizados a la Addin de 
+	Qex para Revit.
+
+Cambios de la versión 3.4
+***************************************************************************
+	- Compatible con Revit 2021
+
+Cambios de la versión 3.3
+***************************************************************************
+	- Solucionados varios errores en la exportación de múltiples imágenes
+	- Se agregaron imagenes de las Quantificaciones en las exportaciones
+		a Excel
+	- Se agregaron imagenes de las Quantificaciones en las exportaciones
+		a Word
+	- Se agregó un archivo Log
+	
+Cambios de la versión 3.2
+***************************************************************************
+	- Compatible con Revit 2020
+
+Cambios de la versión 3.1
+***************************************************************************
+	- Se ha quitado el sistema de licencias. El programa ahora es gratuito
+
+Cambios de la versión 3.00
+***************************************************************************
+	- Se agregó un Módulo de Recursos, para la licencia profesional
+	- Se agregaron tildes de selección múltiple en Quantificaciones
+	- Se agregaron herramientas de selección múltiple: seleccionar
+		magnitud, aislar elementos y guardar imágenes
+	- Los logros se desbloquean a traves de puntos. Estos puntos se
+		obtienen para cada comando o acción de Qex
+
+Cambios de la versión 2.65
+***************************************************************************
+	- Estadisticas: se terminaron de corregir detalles de logros
+
+Cambios de la versión 2.6
+***************************************************************************
+	- Mejora en Cómputos: se puede seleccionar cualquier Parámetro en las
+		Quantificaciones (parámetros de ejemplar, de tipo y compartidos)
+	- Mejora en Cómputos: se puede agrupar por Grupos de Modelo
+	- Mejora en Cómputos: se pueden computar los Montajes
+	- Estadisticas: se agregaron gráficas de Categorías de Elementos
+
+Cambios de la versión 2.5
+***************************************************************************
+	- Se instala para Revit 2016, 2017 y 2018
+	- Mejora en Cómputos: las Quantificaciones se pueden agrupar por 
+		Niveles
+	- Mejora en Cómputos: las Quantificaciones se pueden agrupar por 
+		Fases de Creación
+	- Mejora en Cómputos: las Quantificaciones se pueden agrupar por 
+		Fases y Niveles
+	- Mejora en Cómputos: de las familias Basadas en Línea se obtiene
+		el parámetro Longitud
+	- Se guardan los datos de la última licencia profesional activa
+	- Se agregó el panel de Estadisticas de la aplicación
+	- Se cambió el icono de la aplicación
+	- Se agregó la columna de Imagen para todas las Quantificaciones
+	- La imagen de una Quantificación se puede guardar como archivo PNG
+	- Se corrigieron algunas variaciones de Cómputo de Fases de derribo
+	- Se realizaron cambios en la interfaz de la Confección de Cómputos
+	- Se agregó el comando de creación automática de Libros de
+		Quantificaciones, según la agrupación elegida
+	- Se agregó el comando de eliminar Quantificaciones seleccionadas
+
+Cambios de la versión 2.4
+***************************************************************************
+	- Esta versión se lanzó como Beta Test
+
+Cambios de la versión 2.3
+***************************************************************************
+	- Esta versión fue auditada y publicada en el AutoDesk App Store
+	- Se cambió el icono de la aplicación
+	- Se quitó el comando de exportación a Gestión Revit 2013
+	- Se agregó el comando para exportar a un formato de archivo Qex
+
+Cambios de la versión 2.2
+***************************************************************************
+	- Se agregó una pantalla inicial de carga de los cómputos
+	- Mejora en Cómputos: se agregó el cómputo de Fases de derribo
+	- Mejora en Cómputos: Se agregó la opción de Cómputo de materiales 
+		para Losas de cimentación
+	- Mejora en Cómputos: Se agregó la opción de Cómputo de Barras de 
+		armadura por Marca de anfitrión
+	- Se agregáron casillas de verificación a las Quantificaciones de
+		la pantalla de Confección de Cómputo
+	- Se agregó el comando Mover, que permite las Quantificaciones 
+		marcadas al mismo tiempo
+
+Cambios de la versión 2.1
+***************************************************************************
+	- Se cambió la interfaz principal
+	- Se cambió el lenguaje a Español
+	- Se agregó el licenciamiento por Login
+	- Se quitaron las funciones de importar y exportar matrices de 
+		selecciones
+	- Se agregaron los comandos de Ver Tipos y Ver Descripción
+	- Se agregaron los comandos para aislar elementos y restablecer 
+		Vista
+	- Se agregó el comando para guardar imagen
+	- Se agregó el panel de opciones, y la posibilidad de computar
+		materiales de capas
+	- Se agregó la exportación a MS Word
+	- Se quitaron los comandos Show Details y Hide Details
+	- Se agregó la pantalla de Confección de Cómputos
+	- Se agregó el comando para exportar a Gestión Revit 2013
+
+Cambios de la versión 2.0
+***************************************************************************
+	- Versión de lanzamiento

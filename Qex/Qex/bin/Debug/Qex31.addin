@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>Qex31\Qex31.dll</Assembly>
+    <ClientId>c9509caa-64fa-44d5-a557-915e1433d3a2</ClientId>
+    <FullClassName>Qex.App</FullClassName>
+    <Name>Qex 3.1 para Revit</Name>
+    <VendorId>UniBIM</VendorId>
+    <VendorDescription>Universobim, www.universobim.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,8 @@
+
+23/12/2019 16:35:32 --> *** Log iniciado ***
+23/12/2019 16:35:32 --> Creando lista para Word
+23/12/2019 16:35:32 --> Exportando a Word
+23/12/2019 16:35:37 --> *** Log finalizado ***
+
+23/12/2019 16:36:10 --> ERROR, no se puede borrar: C:\Users\Goro\AppData\Local\Temp\RevitAddins\Qex-Executing-20191223_163424_9610\Temp\Masa - water- water.jpg
+23/12/2019 16:36:10 --> Causa: El proceso no puede obtener acceso al archivo 'Masa - water- water.jpg' porque está siendo utilizado en otro proceso.

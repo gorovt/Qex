@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+*******************************************************************************
+*                                                                             *
+*    Copyright (c) 2016-2020 Luciano Gorosito <lucianogorosito@hotmail.com>   *
+*                                                                             *
+*    This file is part of Qex                                                 *
+*                                                                             *
+*    Qex is free software: you can redistribute it and/or modify              *
+*    it under the terms of the GNU General Public License as published by     *
+*    the Free Software Foundation, either version 3 of the License, or        *
+*    (at your option) any later version.                                      *
+*                                                                             *
+*    Qex is distributed in the hope that it will be useful,                   *
+*    but WITHOUT ANY WARRANTY; without even the implied warranty of           *
+*    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the            *
+*    GNU General Public License for more details.                             *
+*                                                                             *
+*    You should have received a copy of the GNU General Public License        *
+*    along with this program.  If not, see <https://www.gnu.org/licenses/>.   *
+*                                                                             *
+*******************************************************************************
+-->
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>Qex\Qex.dll</Assembly>
+    <ClientId>c9509caa-64fa-44d5-a557-915e1433d3a2</ClientId>
+    <FullClassName>Qex.App</FullClassName>
+    <Name>Qex 3.4 para Revit</Name>
+    <VendorId>UniBIM</VendorId>
+    <VendorDescription>Universobim, www.universobim.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

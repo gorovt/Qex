@@ -1,0 +1,923 @@
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\Qex.addin
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\Qex.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\Qex.pdb
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\ClosedXML.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\DocX.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\MySql.Data.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\bin\Debug\DocumentFormat.OpenXml.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.g.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmComputo.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmEditar.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmEditarGrupo.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmEditarMaterial.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmEditarRecurso.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmMain.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmLogin.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmMoveNodes.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmNuevoGrupo.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmNuevoMaterial.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmOpciones.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmCambiarPass.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmAbout.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmRecursoAgregar.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmRecursosMain.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmRecursosMaterial.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmSetMaterialDb.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.frmSplash.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.Resource1.resources
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.csproj.GenerateResource.Cache
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Revit Addins\UniversoBIM-Revit-addin\Qex24\Qex21\obj\Debug\Qex.pdb
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.addin
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.pdb
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DocumentFormat.OpenXml.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.g.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmComputo.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditar.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarGrupo.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarMaterial.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarRecurso.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmMain.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmLogin.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmMoveNodes.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmNuevoGrupo.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmNuevoMaterial.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmOpciones.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmAbout.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursoAgregar.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursosMain.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursosMaterial.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmSetMaterialDb.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmSplash.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.Resource1.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.csproj.GenerateResource.Cache
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.pdb
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ClosedXML.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DocX.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPIUI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPIFoundation.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UtilityAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\APIDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\GraphicsAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ElementGroupDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\EssentialsDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\GeomUtilAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\FamilyDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DetailDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\CurtainGridFamilyDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ArrayElemsDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\EnergyAnalysisDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\BuildingSystemsDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\HostObjDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RoomAreaPlanDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SiteDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SculptingDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StructuralDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\InterfaceAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\InterfaceUtilAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RebarDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StructuralAnalysisDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\MassingDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AssemblyDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DPartDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\NumberingDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\PointCloudAccessAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StairRampDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AnalysisAppsDBAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DBManagedServices.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AdWindows.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAddInUtility.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\APIInterop.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UIFramework.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AddInManager.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitUIAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\BuildingSystemsUIAPI.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UIFrameworkServices.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ManagedMC3.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPI.xml
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPIUI.xml
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\cs-CZ\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\de-DE\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\en-US\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\es-ES\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\fr-FR\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\it-IT\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ja-JP\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ko-KR\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\pl-PL\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\pt-BR\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ru-RU\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\zh-CN\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\zh-TW\AdWindows.resources.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.Platform.Generic.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.Platform.Win32.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmStats.resources
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\System.Data.SQLite.dll
+E:\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.addin
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UtilityAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\APIDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\GraphicsAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\GeomUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\FamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DetailDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\HostObjDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SiteDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\SculptingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StructuralDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\InterfaceAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RebarDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\MassingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DPartDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\NumberingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\StairRampDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\DBManagedServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AdWindows.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAddInUtility.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\APIInterop.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UIFramework.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\AddInManager.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\UIFrameworkServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ManagedMC3.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\RevitAPIUI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.g.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmComputo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarGrupo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmEditarRecurso.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmLogin.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmMoveNodes.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmNuevoGrupo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmNuevoMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmOpciones.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmAbout.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursoAgregar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursosMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmStats.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\MySql.Data.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmDemo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\obj\Debug\Qex.frmImagePreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex24\Qex21\bin\Debug\Qex_cambios.txt
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\Qex_cambios.txt
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\MySql.Data.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAPIUI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\UtilityAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\APIDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\GraphicsAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\GeomUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\FamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\DetailDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\HostObjDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\SiteDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\SculptingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\StructuralDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\InterfaceAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RebarDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\MassingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\DPartDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\NumberingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\StairRampDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\DBManagedServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\AdWindows.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAddInUtility.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\APIInterop.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\UIFramework.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\AddInManager.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\UIFrameworkServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ManagedMC3.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAPI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\RevitAPIUI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmComputo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmEditarGrupo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmEditarMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmEditarRecurso.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmLogin.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmMoveNodes.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmOpciones.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmAbout.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmRecursoAgregar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmRecursosMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmStats.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmDemo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmImagePreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\Qex25.addin
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\Qex25.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\bin\Debug\Qex25.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex25.g.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex25.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex25.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex25\Qex25\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\Qex_cambios.txt
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\Qex26.addin
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\Qex26.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\Qex26.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\MySql.Data.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAPIUI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\UtilityAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\APIDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\GraphicsAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\GeomUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\FamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\DetailDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\HostObjDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\SiteDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\SculptingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\StructuralDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\InterfaceAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RebarDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\MassingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\DPartDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\NumberingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\StairRampDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\DBManagedServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\AdWindows.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAddInUtility.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\APIInterop.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\UIFramework.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\AddInManager.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\UIFrameworkServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ManagedMC3.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAPI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\RevitAPIUI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex26.g.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmComputo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmEditarGrupo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmEditarMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmEditarRecurso.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmLogin.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmMoveNodes.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmOpciones.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmAbout.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmRecursoAgregar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmRecursosMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmStats.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmDemo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmImagePreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex26.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex26.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmWarnings.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmChart.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex26\Qex26\obj\Debug\Qex.frmProfile.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex_cambios.txt
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.addin
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\MySql.Data.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIUI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UtilityAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\APIDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\GraphicsAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\GeomUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\FamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DetailDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\HostObjDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SiteDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SculptingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StructuralDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\InterfaceAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RebarDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\MassingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DPartDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\NumberingDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StairRampDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DBManagedServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AdWindows.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAddInUtility.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\APIInterop.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UIFramework.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AddInManager.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UIFrameworkServices.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ManagedMC3.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIUI.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.g.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmComputo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarGrupo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarRecurso.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmLogin.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMoveNodes.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmOpciones.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmAbout.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmRecursosMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmStats.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmDemo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmImagePreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmWarnings.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmChart.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmProfile.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.dll
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMaterialesImportarExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSelectIcon.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmTutorial.resources
+C:\Users\Goro\Documents\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMultipleEdit.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex_cambios.txt
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.addin
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\Qex30.pdb
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ClosedXML.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DocumentFormat.OpenXml.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DocX.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\MySql.Data.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIUI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.Platform.Generic.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SQLite.Net.Platform.Win32.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIFoundation.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UtilityAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\APIDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\GraphicsAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ElementGroupDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\EssentialsDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\GeomUtilAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\FamilyDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DetailDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ArrayElemsDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\BuildingSystemsDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\HostObjDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SiteDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\SculptingDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StructuralDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\InterfaceAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\InterfaceUtilAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RebarDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\MassingDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AssemblyDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DPartDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\NumberingDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\PointCloudAccessAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\StairRampDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AnalysisAppsDBAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\DBManagedServices.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AdWindows.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAddInUtility.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\APIInterop.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UIFramework.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\AddInManager.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitUIAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\BuildingSystemsUIAPI.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\UIFrameworkServices.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ManagedMC3.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPI.xml
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\RevitAPIUI.xml
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.xml
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\System.Data.SQLite.dll.config
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\de-DE\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\en-US\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\es-ES\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\it-IT\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.csprojResolveAssemblyReference.cache
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.g.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmComputo.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditar.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarGrupo.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarMaterial.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmEditarRecurso.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMain.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmLogin.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMoveNodes.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmOpciones.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmAbout.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmRecursosMain.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmRecursosMaterial.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSetMaterialDb.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSplash.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmStats.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmDemo.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmImagePreview.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmLicenseNearExpired.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmWarnings.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmChart.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmProfile.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMaterialesImportarExcel.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmSelectIcon.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmTutorial.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.frmMultipleEdit.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.Resource1.resources
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex.csproj.GenerateResource.Cache
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.dll
+D:\40-VisualStudio\Revit\Qex\Qex30\Qex30\obj\Debug\Qex30.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\Qex_cambios.txt
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\Qex31.addin
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\Qex31.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\Qex31.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\DocX.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAPIUI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\UtilityAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\APIDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\GraphicsAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\GeomUtilAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\FamilyDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\DetailDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\HostObjDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\SiteDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\SculptingDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\StructuralDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\InterfaceAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RebarDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\MassingDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\DPartDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\NumberingDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\StairRampDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\DBManagedServices.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\AdWindows.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAddInUtility.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\APIInterop.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\UIFramework.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\AddInManager.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitUIAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\UIFrameworkServices.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ManagedMC3.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAPI.xml
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\RevitAPIUI.xml
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.csprojAssemblyReference.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex31.g.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmComputo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmEditarGrupo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmEditarMaterial.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmEditarRecurso.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmMain.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmMoveNodes.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmOpciones.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmAbout.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmRecursosMain.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmSplash.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmStats.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmImagePreview.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmWarnings.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmChart.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmMaterialesImportarExcel.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmSelectIcon.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmTutorial.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.frmMultipleEdit.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.Resource1.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.csproj.GenerateResource.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex.csproj.CopyComplete
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex31.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex31\Qex31\obj\Debug\Qex31.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex_cambios.txt
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.addin
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ClosedXML.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DocumentFormat.OpenXml.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DocX.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPIUI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.Platform.Generic.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.Platform.Win32.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPIFoundation.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UtilityAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\APIDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\GraphicsAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ElementGroupDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\EssentialsDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\GeomUtilAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\FamilyDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DetailDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ArrayElemsDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\BuildingSystemsDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\HostObjDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SiteDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SculptingDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StructuralDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\InterfaceAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\InterfaceUtilAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RebarDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\MassingDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AssemblyDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DPartDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\NumberingDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\PointCloudAccessAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StairRampDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AnalysisAppsDBAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DBManagedServices.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AdWindows.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAddInUtility.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\APIInterop.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UIFramework.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AddInManager.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitUIAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\BuildingSystemsUIAPI.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UIFrameworkServices.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ManagedMC3.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPI.xml
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPIUI.xml
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.xml
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.dll.config
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\de-DE\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\en-US\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\es-ES\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\it-IT\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.g.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmComputo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarGrupo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarMaterial.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarRecurso.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMain.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMoveNodes.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmOpciones.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmAbout.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmRecursosMain.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmRecursosMaterial.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSetMaterialDb.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSplash.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmStats.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmImagePreview.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmLicenseNearExpired.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmWarnings.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmChart.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMaterialesImportarExcel.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSelectIcon.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmTutorial.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMultipleEdit.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.Resource1.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.GenerateResource.cache
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.CopyComplete
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csprojAssemblyReference.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex_cambios.txt
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.addin
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\Qex.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ClosedXML.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DocX.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPIFoundation.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UtilityAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\APIDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\GraphicsAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ElementGroupDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\EssentialsDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\GeomUtilAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\FamilyDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DetailDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ArrayElemsDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\BuildingSystemsDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\HostObjDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SiteDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\SculptingDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StructuralDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\InterfaceAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\InterfaceUtilAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RebarDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\MassingDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AssemblyDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DPartDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\NumberingDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\PointCloudAccessAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\StairRampDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AnalysisAppsDBAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DBManagedServices.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AdWindows.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAddInUtility.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\APIInterop.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UIFramework.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\AddInManager.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitUIAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\BuildingSystemsUIAPI.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\UIFrameworkServices.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ManagedMC3.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPI.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\RevitAPIUI.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\System.Data.SQLite.dll.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\de-DE\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\en-US\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\es-ES\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\it-IT\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.g.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmComputo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarGrupo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarMaterial.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmEditarRecurso.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMain.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMoveNodes.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmOpciones.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmAbout.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmRecursosMain.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmRecursosMaterial.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSetMaterialDb.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSplash.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmStats.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmImagePreview.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmLicenseNearExpired.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmWarnings.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmChart.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMaterialesImportarExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmSelectIcon.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmTutorial.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmMultipleEdit.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.Resource1.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.GenerateResource.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.CopyComplete
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.frmBackDoor.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ExcelNumberFormat.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\FastMember.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ClosedXML.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ClosedXML.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\DocumentFormat.OpenXml.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\bin\Debug\ExcelNumberFormat.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csprojAssemblyReference.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Revit\Qex\Qex\Qex\obj\Debug\Qex.csproj.CoreCompileInputs.cache
